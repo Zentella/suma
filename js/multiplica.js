@@ -1,0 +1,7 @@
+var n1 = prompt("Ingrese un primer número entero a multiplicar: ")
+n1 = parseInt(n1)
+console.log(n1)
+var n2 = prompt("Ingrese un segundo número entero a multiplicar: ")
+n2 = parseInt(n2)
+console.log(n2)
+alert("la multiplicación es : " + (n1*n2))
